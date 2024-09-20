@@ -17,7 +17,7 @@ This repository contains the implementation of a **Retrieval-Augmented Generatio
 
 ### 1. Clone the Repository
 
-git clone https://github.com/reddy24043819/RAG_QAbot/.git
+git clone https://github.com/reddy24043819/RAG_QAbot.git
 cd rag-qa-system
 
 ### Introduction
