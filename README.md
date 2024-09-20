@@ -10,7 +10,7 @@
 
 
 ### Introduction
-  This project demonstrates the development of a Retrieval-Augmented Generation (RAG) model for building a Question Answering (QA) system using a combination of FAISS for efficient document retrieval and Cohere API for natural language generation. The system is built to process user-uploaded documents, extract relevant chunks of information based on a user query, and generate a coherent answer.
+  This project demonstrates the development of a Retrieval-Augmented Generation (RAG) model for building a Question Answering (QA) system using a combination of FAISS for efficient document retrieval and Cohere API for natural language generation. The system is built to process user-uploaded documents, extract relevant chunks of information based on a user query, and generate a coherent answer. A great thanks to Cohere API, Gradio and Docker.
 
 ### **Pipeline Overview**
 
