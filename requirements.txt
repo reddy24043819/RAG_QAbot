@@ -1,0 +1,5 @@
+faiss-cpu
+cohere
+sentence-transformers
+pdfplumber
+gradio
