@@ -1,9 +1,11 @@
 
 # **Retrieval-Augmented Generation (RAG) Based Question Answering (QA) System**
 
-## **Open Part 1 QA Bot system in Google colab** : https://colab.research.google.com/drive/1DyXf1VKLAy3DyqB0STkvhbHTzAeTpGZE
+## **Part 1 : QA Bot system in Google colab** : 
+https://colab.research.google.com/drive/1DyXf1VKLAy3DyqB0STkvhbHTzAeTpGZE
 
-## **Open Part 2 QA Bot User Interface in Google colab** : https://colab.research.google.com/drive/1NrnVZIBMROlVMVbGLanN2YxUabyjsYTd
+## **Part 2 : QA Bot User Interface in Google colab** : 
+https://colab.research.google.com/drive/1NrnVZIBMROlVMVbGLanN2YxUabyjsYTd
 
 ## **Documentation : https://docs.google.com/document/d/17f-3eyEEg4DHwMUo1TBQw1YQc4a1IUzN_hB92K1esH4/**
 
